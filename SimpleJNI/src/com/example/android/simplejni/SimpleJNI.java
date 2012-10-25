@@ -21,6 +21,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 /**
  * this class is sample.
+ * but project is fine!!!
  * @author bonolee
  *
  */
