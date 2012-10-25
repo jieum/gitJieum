@@ -34,6 +34,10 @@ public class SimpleJNI extends Activity {
         tv.setText("2 + 3 = " + Integer.toString(sum));
         setContentView(tv);
     }
+    
+    public void appendMaster(){
+    	;
+    }
 }
 
 class Native {
