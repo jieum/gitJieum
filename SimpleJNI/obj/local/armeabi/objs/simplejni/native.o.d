@@ -1,87 +1,120 @@
- \
- /home/jaehwacho/Projects/workspace/SimpleJNI/obj/local/armeabi/objs/simplejni/native.o:  \
- /home/jaehwacho/Projects/workspace/SimpleJNI/jni/native.cpp \
-  /home/jaehwacho/Projects/workspace/SimpleJNI/jni/log.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/stdio.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/sys/cdefs.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/sys/cdefs_elf.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/sys/_types.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/machine/_types.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/sys/types.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/stdint.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/linux/posix_types.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/linux/stddef.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/linux/compiler.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/asm/posix_types.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/asm/types.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/linux/types.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/machine/kernel.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/sys/sysmacros.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/time.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/sys/time.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/linux/time.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/asm/siginfo.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/asm-generic/siginfo.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/unistd.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/sys/select.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/sys/sysconf.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/linux/capability.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/pathconf.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/android/log.h \
-  /home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/jni.h
+obj/local/armeabi/objs/simplejni/native.o: jni/native.cpp jni/log.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/stdio.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/cdefs.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/cdefs_elf.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/_types.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/_types.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/types.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/stdint.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/posix_types.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/stddef.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/compiler.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/posix_types.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/types.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/types.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/kernel.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/sysmacros.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/time.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/time.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/time.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/siginfo.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm-generic/siginfo.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/unistd.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/select.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/signal.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/limits.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/limits.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/limits.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/internal_types.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/limits.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/syslimits.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/string.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/malloc.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/signal.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm-generic/signal.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/sigcontext.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/sysconf.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/capability.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/pathconf.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/android/log.h \
+ /Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/jni.h
 
-/home/jaehwacho/Projects/workspace/SimpleJNI/jni/log.h:
+jni/log.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/stdio.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/stdio.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/sys/cdefs.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/cdefs.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/sys/cdefs_elf.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/cdefs_elf.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/sys/_types.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/_types.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/machine/_types.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/_types.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/sys/types.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/types.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/stdint.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/stdint.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/linux/posix_types.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/posix_types.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/linux/stddef.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/stddef.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/linux/compiler.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/compiler.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/asm/posix_types.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/posix_types.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/asm/types.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/types.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/linux/types.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/types.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/machine/kernel.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/kernel.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/sys/sysmacros.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/sysmacros.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/time.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/time.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/sys/time.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/time.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/linux/time.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/time.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/asm/siginfo.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/siginfo.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/asm-generic/siginfo.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm-generic/siginfo.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/unistd.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/unistd.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/sys/select.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/select.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/sys/sysconf.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/signal.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/linux/capability.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/limits.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/pathconf.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/limits.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/android/log.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/limits.h:
 
-/home/jaehwacho/Projects/android/android-ndk-r4b/build/platforms/android-3/arch-arm/usr/include/jni.h:
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/internal_types.h:
+
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/machine/limits.h:
+
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/syslimits.h:
+
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/string.h:
+
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/malloc.h:
+
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/signal.h:
+
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm-generic/signal.h:
+
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/asm/sigcontext.h:
+
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/sys/sysconf.h:
+
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/linux/capability.h:
+
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/pathconf.h:
+
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/android/log.h:
+
+/Users/jieum1214/Downloads/android-ndk-r8b/platforms/android-14/arch-arm/usr/include/jni.h:
