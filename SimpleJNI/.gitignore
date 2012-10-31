@@ -1,4 +1,6 @@
 bin
+libs
+obj
 .DS_Store*
 Thumbs.db
 *.o
