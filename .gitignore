@@ -1,0 +1,8 @@
+bin
+libs
+obj
+*.class
+*.o
+*.d
+*.so
+
