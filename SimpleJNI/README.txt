@@ -13,6 +13,7 @@ master modify...
 modify branch
 edited by vim editor....0404
 =======
+<<<<<<< HEAD
 helloworld
 helloworld
 helloworld
@@ -26,6 +27,13 @@ helloworld
 helloworld
 helloworld
 helloworld edit by eclipse ..
+=======
+>>>>>>> origin/branch1
+gkgkgkgksdkfjaslfkajsldf
+sdfaksdfjasdlfjasldfkjasldfjasdf
+afdaksfjasl;dfkjas;dfjasdf
+asfaskdfjasl;dfksa;fjasd
+asdfkasdjfa;j by console source tree...
 gkgkgkgksdkfjaslfkajsldf
 sdfaksdfjasdlfjasldfkjasldfjasdf
 afdaksfjasl;dfkjas;dfjasdf
