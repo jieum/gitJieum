@@ -1,2 +1,7 @@
 helloworld.
+<<<<<<< Updated upstream
 edited by eclipse 
+=======
+console edit
+print'console edit'
+>>>>>>> Stashed changes
