@@ -13,15 +13,20 @@ master modify...
 modify branch
 edited by vim editor....0404
 =======
-<<<<<<< HEAD
+helloworld
+helloworld
+helloworld
+=======
 helloworld
 helloworld
 helloworld
 helloworld
 helloworld edit by eclipse ..
 =======
->>>>>>> origin/branch1
 gkgkgkgksdkfjaslfkajsldf
-asdfkasdjfa;j by console source tree...
+=======
+비가옵니다.ㅠㅠㅠ by sourcetree
+비가옵니다.ㅠㅠㅠ by sourcetree
+비가옵니다.ㅠㅠㅠ by sourcetree
 안녕하세요.. by eclipse 0402...
 이클립스에서 수정한 겁니다....0441...
