@@ -1,16 +1,9 @@
-안녕하세요.테스트입니다.
-하하하하하
+.hello.txt
+이클립스에서 깃작업은 매우 에러가 많아요.ㅠㅠㅠ 
+안녕하세요.테스트입니다.[이클립스머지]
+하하하하하[이클립스머지]
 print 'changhwanlee'
 hello world...
 hahaha 
 uhauha
 modify by eclipse!!!
-=======
-hehehehehehehe
-dkfasdklfjasdlkfajsdl;f
-sdfkasdjfasd;fkjasdf
-sdakfjkas;dfjasdkfa;s
-
------ 충돌해결합니다. 
------ 충돌해결합니다. 
------ 충돌해결합니다. 
