@@ -1,40 +1,16 @@
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-[master] master 수정...합니다.
-=======
+마스터에서 수정합니다.마스터에
+마스터에서 수정합니다.마스터에
+마스터에서 수정합니다.마스터에
+마스터에서 수정합니다.마스터에
+마스터에서 수정합니다.마스터에
+마스터에서 수정합니다.마스터에
 branch 수정yyp
 branch 수정yyp
 branch 수정yyp
 branch 수정yyp
+fasdkfjadslfjkasdl;fajsdlfa;sdfljas;df
 [branch] branch 수정...합니다.
 [branch] branch 수정...합니다.
-마스터에서 수정합니다.마스터에
-마스터에서 수정합니다.마스터에
-마스터에서 수정합니다.마스터에
-마스터에서 수정합니다.마스터에
-마스터에서 수정합니다.마스터에
-마스터에서 수정합니다.마스터에
 modify by branch
 modify by branch
 modify by branch
